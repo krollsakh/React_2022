@@ -22,3 +22,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 /package-lock.json
+/.idea/.gitignore
+/.idea/markdown.xml
+/.idea/modules.xml
+/.idea/React_2022.iml
+/.idea/vcs.xml
